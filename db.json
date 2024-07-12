@@ -2,7 +2,7 @@
     "productos": [
         { "id": "1",
         "nome": "Link Zonai - ToK",
-        "valor": "350",
+        "preco": "350",
         "imagem": "https://www.zbrushcentral.com/uploads/default/original/4X/f/5/9/f59c90f247d5170c1d2538a48628969f06456a26.jpeg"},
         
         {
